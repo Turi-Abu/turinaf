@@ -79,7 +79,7 @@
      }
  }
 .indicator{
-    left: 44%;
+    left: 46%;
     margin: 0 auto;
     bottom: 120px;
     position: absolute;
@@ -117,13 +117,16 @@
         width: 100%;
         text-align: center;
     }
+    .typing{
+        margin-left: 50px;
+    }
     .indicator{
-       display: block;
+        display: block;
         margin: 0 auto;
         bottom: 120px;
         color: #fff;
         font-family: aldrich;
-      
+        left: 36%;
     }
     .social-icons{
         display: none;
