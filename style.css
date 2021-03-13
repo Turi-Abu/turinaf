@@ -159,7 +159,7 @@
 @media only screen and (min-width: 600px){
     .ml-auto{
         float: right !important;
-        margin-left: 70%;
+        margin-left: 60%;
     }
     .about{
         padding-top: 100px;
@@ -169,7 +169,6 @@
         margin-top: -50px;
     }
 }
-
 .nav-bar{
     top: 0;
     position: sticky;
@@ -243,9 +242,8 @@
 .resume h3{
  margin-bottom: 50px;
 }
-
 .resume p{
-    padding: 4px;
+    padding-left: 10px;
     font-size: 18px;
 }
 .resume p span{
