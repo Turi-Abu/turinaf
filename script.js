@@ -1,4 +1,4 @@
-const texts = ['a developer in made.'];
+const texts = ['a developer in the making.'];
 let count =0;
 let index = 0;
 
