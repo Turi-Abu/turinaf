@@ -81,7 +81,7 @@
 .indicator{
     left: 46%;
     margin: 0 auto;
-    bottom: 120px;
+    bottom: 80px;
     position: absolute;
     color: #fff;
     font-family: aldrich;
@@ -91,12 +91,10 @@
      position: absolute;
      left: 50%;
      border: 2px solid #fff;
-     padding: 3px 1px 30px;
+     padding: 2px 1px 20px;
      border-radius: 30px;
  }
  .scroll-bar span{
-  /* border: 2px solid #fff; */
-  font-size: 33px;
   border-radius: 30px;
   padding: 4px;
   color: #fff;
@@ -123,7 +121,7 @@
     .indicator{
         display: block;
         margin: 0 auto;
-        bottom: 120px;
+        bottom: 80px;
         color: #fff;
         font-family: aldrich;
         left: 36%;
