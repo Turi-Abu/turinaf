@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/qubeegen" target="blank"><img src="https://img.shields.io/twitter/follow/qubeegen?logo=twitter&style=for-the-badge" alt="qubeegen" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
