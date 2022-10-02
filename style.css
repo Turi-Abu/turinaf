@@ -20,8 +20,11 @@
  .user-box{
      top: 20%;
      left: 30%;
+     display: block;
      transform: translate(-50%, -50%);
      position: absolute;
+     margin: 0 auto;
+     align-content: left;
  }
 .user-box code{
     font-weight: bold;
