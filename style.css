@@ -19,8 +19,9 @@
  }
  .user-box{
      display: block;
-     margin: 200px auto;
-     width: 100%;
+     margin: 100px auto;
+     min-width: 500px;
+     /* width: 300px; */
      position: absolute;
      text-align: left;
  }
